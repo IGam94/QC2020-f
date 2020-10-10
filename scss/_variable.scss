@@ -1,0 +1,18 @@
+// Alerts
+//
+// Define alert colors, border radius, and padding.
+
+$border-radius: 0.25rem !default;
+$border-width: 1px !default;
+
+$alert-bg-level: -10 !default;
+$alert-border-level: -9 !default;
+$alert-color-level: 6 !default;
+
+$alert-padding-y: 0.75rem !default;
+$alert-padding-x: 1.25rem !default;
+$alert-margin-bottom: 1rem !default;
+
+$alert-border-width: $border-width !default;
+$alert-border-radius: $border-radius !default;
+

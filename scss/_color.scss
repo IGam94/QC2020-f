@@ -1,0 +1,26 @@
+$alpa:0.3;
+
+$blue:  rgb(0,123,255)    !default;
+$purple:rgb(110,65,193)   !default;
+$red:   rgb(221,53,69)    !default;
+$yellow:rgb(255,193,6)    !default;
+$green: rgb(40,167,69)    !default;
+$gray:  rgb(100,117,125)  !default;
+$dark:  rgb(52,58,64)     !default;
+$white: rgb(255, 255, 255)!default;
+$black: rgb(0,0,0)        !default;
+
+
+$bg-blue:  rgba($blue,$alpa)  !default;
+$bg-purple:rgba($purple,$alpa)!default;
+$bg-red:   rgba($red,$alpa)   !default;
+$bg-yellow:rgba($yellow,$alpa)!default;
+$bg-green: rgba($green,$alpa) !default;
+
+$alert-colors:(
+  'blue':   $blue,
+  'purple': $purple,
+  'red':    $red,
+  'yellow': $yellow,
+  'green':  $green
+);

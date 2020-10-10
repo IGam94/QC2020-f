@@ -1,1 +1,32 @@
-/* No CSS *//*# sourceMappingURL=QC2020-f.css.map */
+.alert {
+  position: relative;
+  padding: 0.75rem 1.25rem;
+  margin-bottom: 1rem;
+  border: 1px solid transparent;
+}
+
+.alert-blue {
+  background-color: #3395ff;
+  border-color: #3395ff;
+}
+
+.alert-purple {
+  background-color: #8b67ce;
+  border-color: #8b67ce;
+}
+
+.alert-red {
+  background-color: #e4616d;
+  border-color: #e4616d;
+}
+
+.alert-yellow {
+  background-color: #ffce39;
+  border-color: #ffce39;
+}
+
+.alert-green {
+  background-color: #34ce57;
+  border-color: #34ce57;
+}
+/*# sourceMappingURL=QC2020-f.css.map */

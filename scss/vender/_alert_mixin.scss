@@ -1,0 +1,5 @@
+
+@mixin alert-variant($color) {
+  background-color: lighten($color, 10%);
+	border-color: lighten($color, 10%);
+}
